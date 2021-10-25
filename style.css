@@ -1,0 +1,51 @@
+header {
+    background-color: rgb(79, 150, 243);
+    background-image: url(img/pattern.png);
+    
+    
+}
+
+.copertina{
+    
+}
+
+.text-blu{
+    color: rgb(79, 150, 243);
+}
+
+.txt-piccolo{
+    text-size-adjust: large;
+    color: rgb(121, 121, 121);
+}
+
+.evidenziato{
+    background-color: rgb(247, 247, 3);
+}
+
+thead{
+    background-color: rgb(132, 200, 255);
+    color: white;
+}
+
+.tab-col{
+    background-color: rgb(97, 217, 238);
+}
+
+.img-pie{
+    position: relative;
+}
+
+.alto-sx{
+    position: absolute;
+    top: px;
+    left: 8px;
+    color: white;
+}
+
+td{
+    height: 50px;
+}
+
+.grigio{
+    color: rgb(121, 121, 121);
+}
