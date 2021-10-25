@@ -1,11 +1,13 @@
 header {
     background-color: rgb(79, 150, 243);
     background-image: url(../img/pattern.png);
+    background-size: 30%;
     
     
 }
 
 .copertina{
+    width: 300px;
     
 }
 
@@ -13,9 +15,13 @@ header {
     color: rgb(79, 150, 243);
 }
 
-.txt-piccolo{
+.txt-piccolo-grey{
     text-size-adjust: large;
     color: rgb(121, 121, 121);
+}
+
+.txt-piccolo{
+    font-size: 10px;
 }
 
 .evidenziato{
