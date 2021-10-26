@@ -11,6 +11,10 @@ header {
     
 }
 
+ul{
+    padding-left: 15px;
+}
+
 .text-blu{
     color: rgb(79, 150, 243);
 }
